@@ -1,2 +1,2 @@
 It is so a planet!
-extra line added
+conflict resolved
